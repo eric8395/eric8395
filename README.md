@@ -1,6 +1,6 @@
 👋 Hi, I'm Eric!
 
-Native New Yorker and fanatic sports fan. 
+Native New Yorker and a fan of everything New York :statue_of_liberty:
 
 Attemping to make sense of the millions of stats associated with the game of baseball and do whatever I can so the Yankees can win :baseball:
 
