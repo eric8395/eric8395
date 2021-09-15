@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @eric8395
-Curious and aspiring data analyst!
+👋 Hi, I'm Eric!
+
+Native New Yorker and fanatic sports fan. Attemping make sense of the millions of stats associated with the game of baseball and do whatever I can so the Yankees can win again. 
+I am also a curious and aspiring data analyst looking to hone my skills in Python!
 
 
 <!---
