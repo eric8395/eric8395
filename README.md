@@ -2,9 +2,11 @@
 
 Native New Yorker and a fan of everything New York :statue_of_liberty:
 
-Attemping to make sense of the millions of stats associated with the game of baseball and do whatever I can to help the Yankees win :baseball:
+I am passionate about baseball :baseball:, traveling :airplane:, and food :pizza:
 
-When I am not obsessing over baseball, I am a data science professional passionate about analyzing and translating data into meaningful stories and business decisions. Trained in machine learning, statistical analysis, and developing data visualizations:chart_with_upwards_trend: 
+I am also a data science professional passionate about analyzing and translating data into meaningful stories and business decisions. Trained in machine learning, statistical analysis, and developing data visualizations:chart_with_upwards_trend: 
+
+<a href="https://medium.com/@eric8395/my-path-to-data-science-82341a80a23b"> Read more about my Personal Career Transition from Civil Engineering into Data Science </a>
 
 ### Highlighted Work 
 - <a href="https://github.com/eric8395/baseball-analytics"> Stepping Up To The Plate - Predicting MLB Player Value & Team Wins with Machine Learning </a>
