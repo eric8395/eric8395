@@ -2,7 +2,7 @@
 
 Native New Yorker and a fan of everything New York :statue_of_liberty:
 
-I am passionate about baseball :baseball:, traveling :airplane:, and food :pizza:
+I am passionate about baseball :baseball:, traveling :airplane:, food :pizza:, and learning :mortar_board:
 
 I am also a data science professional passionate about analyzing and translating data into meaningful stories and business decisions. Trained in machine learning, statistical analysis, and developing data visualizations:chart_with_upwards_trend: 
 
